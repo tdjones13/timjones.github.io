@@ -3,18 +3,18 @@
 # Site wide configuration
 ####################################
 #
-title: Leonids
-email:
-description: A simple and awesome blog theme powered by jekyll.
-url: # the base hostname & protocol for your site
-keywords: ["blog", "jekyll"]
+title: David Whipp
+email: david.whipp@helsinki.fi
+description: David Whipp's personal website
+url: https://davewhipp.github.io # the base hostname & protocol for your site
+
 
 #
 ###################################
 # Jekyll configuration
 ####################################
 #
-timezone:          Europe/Paris
+timezone:          Europe/Helsinki
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
@@ -33,25 +33,25 @@ kramdown:
 ####################################
 #
 owner:
-  name: Leonids
-  avatar: leonids-logo.png
-  job: "A jekyll theme"
-  bio: "A simple and awesome blog theme powered by jekyll."
-  email:
+  name: David Whipp
+  avatar: Whipp-circle.png
+  job: "Computers, rocks, and beer"
+  bio: "Associate Professor of Geodynamic Modelling at the University of Helsinki, Finland."
+  email: david.whipp@helsinki.fi
   disqus-shortname:
-  twitter: #username
+  twitter: dave_whipp
   facebook: #username
   google:
     plus: #username
-    analytics:
+    analytics: UA-41847639-2
     verify:
     ad-client:
     ad-slot:
   bing-verify:
-  github: #username
+  github: davewhipp
   gitlab: #username
   stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: #username
+  linkedin: dwhipp #username
   skype: #username
   xing: #username
   instagram: #username
@@ -62,10 +62,9 @@ owner:
   steam: #username
   dribbble: #username
   youtube: #username
+  youtubec: UCIvX6ZFgUP5DgvBSomhz-yw #username
   soundcloud: #username
   weibo: #username
   flickr: #username
   500px: #username
   codepen: #username
-  reddit: #username
-  telegram: #username
