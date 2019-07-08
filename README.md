@@ -69,3 +69,4 @@ You can put all your info into these files, and they will be featured on the res
 
 - [ ] Redesign categories page. Ref: [dribbble: blog category section By Ilja Miskov](https://dribbble.com/shots/2274792-Blog-Category-Selection)
 - [ ] Multi languages support.
+# timjones.github.io
